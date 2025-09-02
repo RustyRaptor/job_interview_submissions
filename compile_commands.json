@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-I/usr/include",
+      "-D_GNU_SOURCE",
+      "-D__STDC_CONSTANT_MACROS",
+      "-D__STDC_FORMAT_MACROS",
+      "-D__STDC_LIMIT_MACROS",
+      "./invert_lines.cpp"
+    ],
+    "directory": "/home/doge/Documents/src/job_interview_submissions",
+    "file": "/home/doge/Documents/src/job_interview_submissions/invert_lines.cpp"
+  }
+]

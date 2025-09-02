@@ -1,0 +1,6 @@
+---
+Checks:          'llvm-*,-llvm-header-guard,clang-diagnostic-*,clang-analyzer-*,cppcoreguidelines-*,modernize-*,bugprone-assignment-in-if-condition'
+WarningsAsErrors: true
+HeaderFilterRegex: ''
+FormatStyle:     mozilla
+...
